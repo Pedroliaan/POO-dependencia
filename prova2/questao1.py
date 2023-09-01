@@ -1,0 +1,2 @@
+A classe funciona como um projeto para algo ser contruído, é uma estrutura que pode criar vários objetos.
+Objetos são aplicações de uma classe, cada objeto é único mas vários objetos podem ser feitos a partir da mesma base

@@ -1,0 +1,1 @@
+o atributo é decalrado publico de forma correta na alternativa a) e é declarado privado corre tamente na alternativa c) 

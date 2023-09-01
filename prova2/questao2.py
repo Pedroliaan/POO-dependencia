@@ -1,0 +1,4 @@
+Abstração: Transformar objetos e situações da vida real em código, para isso utilizamos os coinceitos de objeto e classe.
+Encapsulamento: Proteger os atributos ou métodos de uma classe, fazendo com que o seu funcionamento interno não possa ser acessado e apenas o seu resultado seja visto
+Herança: quando uma classe tem os atributos de uma outra classe é utilizada a herança fazendo com que aclasse filha posssa herdar, mas também adicionando suas propriedades.
+Polimorfismo: A capacidade de um mesmo objeto ser refenciado de diversas formas, uma classe filha poder sobrescrever um atributo de uma classe pai.
